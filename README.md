@@ -1,1 +1,3 @@
+#[Deprecated]
+
 USERBOT DATABASE
